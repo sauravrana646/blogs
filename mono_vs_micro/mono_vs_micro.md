@@ -115,7 +115,7 @@ The services are communicating with each other using the Event Hub.
 
 ### [:memo:](https://developers.redhat.com/articles/2022/01/11/5-design-principles-microservices#five_design_principles_for_microservices) **Five design principles for microservices** 
 
-![Pride Rock](/images/pride_rock.png)
+![Pride Rock](./images/pride_rock.png)
 
 The benefits of an MOA can be significant, but they come with a price. You need to know a thing or two about microservice design to implement an MOA effectively—you can't make it up as you go along. A microservice application must follow these five principles:
 
